@@ -14,5 +14,5 @@ This LoC calculates net salary for employees in Kenya after PAYEE deduction, Nhi
 3. Run the index.html on your browser.
 ## 3. Author & License
 Jeff Muthunga was the sole contributor to this project.
-Project is licensed and grants permissions for Commercial use, Distribution, Modification, Patent and Private. 
+Project is licensed and grants permissions for Commercial use, Distribution, Modification, Patent and Private use. 
 For any queries or enquiries feel free to reach out at jeffmuthunga@gmail.com
